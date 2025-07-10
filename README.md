@@ -60,5 +60,3 @@ The model outputs whether the person is likely diabetic or not based on trained 
 
 ```bash
 python diabetes_prediction.py
-
-----
